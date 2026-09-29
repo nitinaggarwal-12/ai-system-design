@@ -1,0 +1,9 @@
+.git
+.DS_Store
+.agents
+.gemini
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+skills.json
+skills.md
